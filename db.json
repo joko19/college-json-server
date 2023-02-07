@@ -1,9 +1,10 @@
 {
   "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
+    { "id": 1, "title": "json-server", "author": "typicode" },
+    { "id": 2, "title": "json-serever", "author": "typicod2e" },
+    { "id": 3, "title": "json-se2rver", "author": "typi2code" },
+    { "id": 4, "title": "json-serve3r", "author": "typiecode" }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
+  "comments": [{ "id": 1, "body": "some comment", "postId": 1 }],
   "profile": { "name": "typicode" }
 }
