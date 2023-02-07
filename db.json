@@ -1,10 +1,53 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" },
-    { "id": 2, "title": "json-serever", "author": "typicod2e" },
-    { "id": 3, "title": "json-se2rver", "author": "typi2code" },
-    { "id": 4, "title": "json-serve3r", "author": "typiecode" }
-  ],
-  "comments": [{ "id": 1, "body": "some comment", "postId": 1 }],
-  "profile": { "name": "typicode" }
+  "projects": [
+    {
+      "id": 1,
+      "name": "eBay",
+      "type": "Educational",
+      "status": "Completed",
+      "created_at": "2/3/2023"
+    },
+    {
+      "id": 2,
+      "name": "Editor X",
+      "type": "Testimonial",
+      "status": "Waiting for Feedback",
+      "created_at": "2/3/2023"
+    },
+    {
+      "id": 3,
+      "name": "Canva",
+      "type": "Corporate Training",
+      "status": "Waiting for Feedback",
+      "created_at": "2/3/2023"
+    },
+    {
+      "id": 4,
+      "name": "Adobe",
+      "type": "Testimonial",
+      "status": "Video Editing",
+      "created_at": "2/3/2023"
+    },
+    {
+      "id": 5,
+      "name": "Envato",
+      "type": "Testimonial",
+      "status": "Shoot Scheduled",
+      "created_at": "2/3/2023"
+    },
+    {
+      "id": 6,
+      "name": "Netflix",
+      "type": "Corporate Training",
+      "status": "Schedule a Shoot",
+      "created_at": "2/3/2023"
+    },
+    {
+      "id": 6,
+      "name": "Workday",
+      "type": "Testimonial",
+      "status": "Form Incomplete",
+      "created_at": "2/3/2023"
+    }
+  ]
 }
